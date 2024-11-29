@@ -1,0 +1,18 @@
+body {
+    background-image: url("./imagens/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.imagem_destaque_menu{
+    text-align: center;
+    margin-top: 3%;
+}
+
+.select_of_level{
+    text-align: center;
+}
+.start_level{
+    text-align: center;
+    margin-top: 1%;
+}
